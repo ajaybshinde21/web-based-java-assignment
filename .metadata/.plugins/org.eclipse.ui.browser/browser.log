@@ -1,0 +1,46 @@
+
+Jan 22, 2022 20:00:42.49 NEW SESSION
+Jan 22, 2022 20:00:42.49 Opening in existing browser session.
+Jan 22, 2022 20:00:42.92 [20233:20233:0100/000000.921909:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 20:04:41.97 Opening in existing browser session.
+Jan 22, 2022 20:04:42.21 [20796:20796:0100/000000.217432:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 20:28:39.43 Opening in existing browser session.
+Jan 22, 2022 20:28:39.60 [23501:23501:0100/000000.605803:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 20:39:52.78 Opening in existing browser session.
+Jan 22, 2022 20:39:52.90 [24227:24227:0100/000000.907366:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 20:40:50.80 Opening in existing browser session.
+Jan 22, 2022 20:40:50.83 [24501:24501:0100/000000.835527:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 21:47:58.99 Opening in existing browser session.
+Jan 22, 2022 21:47:59.37 [31719:31719:0100/000000.378256:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 22:09:36.04 Opening in existing browser session.
+Jan 22, 2022 22:09:37.97 [36012:36012:0100/000000.979198:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 22:13:20.87 Opening in existing browser session.
+Jan 22, 2022 22:13:22.75 [36347:36347:0100/000000.752403:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 22:16:29.68 Opening in existing browser session.
+Jan 22, 2022 22:16:31.35 [38521:38521:0100/000000.356010:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+Jan 22, 2022 23:04:39.15 NEW SESSION
+Jan 22, 2022 23:04:39.15 Opening in existing browser session.
+Jan 22, 2022 23:04:39.38 [43825:43825:0100/000000.384326:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 23:13:11.08 Opening in existing browser session.
+Jan 22, 2022 23:13:11.26 [44595:44595:0100/000000.261204:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2022 23:52:40.80 Opening in existing browser session.
+Jan 22, 2022 23:52:41.01 [48372:48372:0100/000000.016549:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+Jan 23, 2022 24:14:44.66 NEW SESSION
+Jan 23, 2022 24:14:44.66 Opening in existing browser session.
+Jan 23, 2022 24:14:44.74 [50221:50221:0100/000000.741444:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2022 24:19:29.82 [50649:50649:0123/001929.828322:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2022 24:19:30.62 Opening in existing browser session.
+Jan 23, 2022 24:31:13.41 Opening in existing browser session.
+Jan 23, 2022 24:31:14.45 [51679:51679:0100/000000.454585:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2022 24:46:46.36 Opening in existing browser session.
+Jan 23, 2022 24:46:47.72 [52822:52822:0100/000000.727714:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2022 24:53:59.63 [0123/005358.604727:WARNING:exception_snapshot_linux.cc(427)] Unhandled signal -1
+Jan 23, 2022 24:54:07.75 Opening in existing browser session.
+
+Jan 23, 2022 24:58:31.51 NEW SESSION
+Jan 23, 2022 24:58:31.51 Opening in existing browser session.
+Jan 23, 2022 24:58:33.00 [54100:54100:0100/000000.003433:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2022 01:01:17.93 [54446:54446:0123/010117.938459:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2022 01:01:17.95 Opening in existing browser session.

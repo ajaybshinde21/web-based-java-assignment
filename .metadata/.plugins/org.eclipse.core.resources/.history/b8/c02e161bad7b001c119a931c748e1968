@@ -1,0 +1,8 @@
+package ecommerce;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+@WebServlet("SearchProduct")
+public class SearchProduct extends HttpServlet {
+
+}

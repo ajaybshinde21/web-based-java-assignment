@@ -1,0 +1,35 @@
+package ecommerce;
+
+import org.hibernate.Criteria;
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.boot.Metadata;
+import org.hibernate.boot.MetadataSources;
+import org.hibernate.boot.registry.StandardServiceRegistry;
+import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
+import org.hibernate.criterion.Restrictions;
+
+public class HibernateClient {
+	 Session session;
+	public HibernateClient() {
+		StandardServiceRegistry ssr = new StandardServiceRegistryBuilder().configure("hibernate.cfg.xml").build();  
+        Metadata meta = new MetadataSources(ssr).getMetadataBuilder().build();  
+        SessionFactory factory = meta.getSessionFactoryBuilder().build();  
+       session = factory.openSession();
+ 
+	}
+	public void insert(Product product) {
+		
+        Transaction t = session.beginTransaction();
+        session.save(product);
+        t.commit();
+       
+      
+	}
+	
+	public void close() {
+		  session.close();
+	}
+}

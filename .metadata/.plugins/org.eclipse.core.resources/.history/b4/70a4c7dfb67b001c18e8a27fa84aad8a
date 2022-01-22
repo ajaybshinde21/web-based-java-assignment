@@ -1,0 +1,8 @@
+package ecommerce;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+@WebServlet("/viewAll")
+public class ViewAllServlet extends HttpServlet {
+
+}

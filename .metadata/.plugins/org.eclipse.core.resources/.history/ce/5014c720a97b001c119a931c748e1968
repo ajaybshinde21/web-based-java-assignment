@@ -1,0 +1,7 @@
+package ecommerce;
+
+import javax.servlet.http.HttpServlet;
+@WebServlet("/UpdateProduct")
+public class UpdateProduct extends HttpServlet {
+
+}
